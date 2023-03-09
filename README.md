@@ -1,6 +1,6 @@
-**Welcome to my Swarm Chat repo**
+# Welcome to my Swarm Chat repo
 
-**This project implemented a Java-based distributed chat room :)**
+##This project implemented a Java-based distributed chat room  :)
 
 The code is upcoming and updating.
 
@@ -13,10 +13,10 @@ The application leverages several key distributed system concepts, including Bro
 1. Install Java environment properly
 2. Go to the project folder
 3. Compile all the Java files
-  $ javac *.java
+  `$ javac *.java`
 4. Run the backup server
-  $ java ChatRoomBackupServer
+  `$ java ChatRoomBackupServer`
 5. Run the main server
-  $ java ChatRoomServer
+  `$ java ChatRoomServer`
 6. Then you can create as many chat room users as you want, make sure the room number is an int and username is no empty.  
-  $ java ChatRoomClient
+  `$ java ChatRoomClient`
