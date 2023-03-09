@@ -1,6 +1,6 @@
-# Welcome to my Swarm Chat repo
+## Welcome to my Swarm Chat repo
 
-## This project implemented a Java-based distributed chat room  :)
+### This project implemented a Java-based distributed chat room  :)
 
 The code is upcoming and updating.
 
