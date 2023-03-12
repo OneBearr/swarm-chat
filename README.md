@@ -9,7 +9,7 @@ This swarm chat application allows multiple users to participate in concurrent c
 
 The application leverages several key distributed system concepts, including Broadcast/Multicast, Mutual Exclusion, Timestamps, Concurrency Control, Replication and Consistency, among others.
 
-**To Run the Chat Room**
+**To Run the Chat Room**  
 1. Install Java environment properly
 2. Go to the project folder
 3. Compile all the Java files
