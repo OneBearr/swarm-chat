@@ -4,7 +4,7 @@
 
 The code is upcoming and updating.
 
-Current description and achivement:
+Current description and achivement:  
 This swarm chat application allows multiple users to participate in concurrent conversations across multiple chat rooms. Users receive notifications when other users join or leave a chat room, or when messages are sent. To prevent loss of chat messages in the event of unexpected crashes or outages of the user or main server, all chat messages are replicated and stored in a backup. When the user or server comes back online, the chat history is restored.
 
 The application leverages several key distributed system concepts, including Broadcast/Multicast, Mutual Exclusion, Timestamps, Concurrency Control, Replication and Consistency, among others.
