@@ -12,11 +12,11 @@ The application leverages several key distributed system concepts, including Bro
 **To Run the Chat Room**
 1. Install Java environment properly
 2. Go to the project folder
-3. Compile all the Java files
+3. Compile all the Java files  
   `$ javac *.java`
-4. Run the backup server
+4. Run the backup server  
   `$ java ChatRoomBackupServer`
-5. Run the main server
+5. Run the main server  
   `$ java ChatRoomServer`
-6. Then you can create as many chat room users as you want, make sure the room number is an int and username is no empty.  
+6. Then you can create as many chat room users as you want, make sure the room number is an int and username is no empty.   
   `$ java ChatRoomClient`
