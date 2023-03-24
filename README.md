@@ -23,3 +23,6 @@ The application leverages several key distributed system concepts, including Bro
 
 ### Architecture Overview  
 <img src="https://user-images.githubusercontent.com/56367478/227619369-df0f8001-8e67-40ec-8833-e45f87d3c751.jpg" alt="ChatRoom Explain" width="600"/>
+
+### Chat Demo  
+<img src="https://user-images.githubusercontent.com/56367478/227622747-acf42617-3463-4e38-93ce-349c6d456149.jpg" alt="chat demo" width="600"/>
