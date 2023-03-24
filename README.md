@@ -20,3 +20,6 @@ The application leverages several key distributed system concepts, including Bro
   `$ java ChatRoomServer`
 6. Then you can create as many chat room users as you want, make sure the room number is an int and username is no empty.   
   `$ java ChatRoomClient`
+
+### Architecture Overview  
+<img src="https://user-images.githubusercontent.com/56367478/227619369-df0f8001-8e67-40ec-8833-e45f87d3c751.jpg" alt="ChatRoom Explain" width="600"/>
